@@ -1,0 +1,16 @@
+C:\source\codeworks\9-week\1-day\RPS\bin\Debug\net5.0\RPS.exe
+C:\source\codeworks\9-week\1-day\RPS\bin\Debug\net5.0\RPS.deps.json
+C:\source\codeworks\9-week\1-day\RPS\bin\Debug\net5.0\RPS.runtimeconfig.json
+C:\source\codeworks\9-week\1-day\RPS\bin\Debug\net5.0\RPS.runtimeconfig.dev.json
+C:\source\codeworks\9-week\1-day\RPS\bin\Debug\net5.0\RPS.dll
+C:\source\codeworks\9-week\1-day\RPS\bin\Debug\net5.0\ref\RPS.dll
+C:\source\codeworks\9-week\1-day\RPS\bin\Debug\net5.0\RPS.pdb
+C:\source\codeworks\9-week\1-day\RPS\obj\Debug\net5.0\RPS.csprojAssemblyReference.cache
+C:\source\codeworks\9-week\1-day\RPS\obj\Debug\net5.0\RPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\9-week\1-day\RPS\obj\Debug\net5.0\RPS.AssemblyInfoInputs.cache
+C:\source\codeworks\9-week\1-day\RPS\obj\Debug\net5.0\RPS.AssemblyInfo.cs
+C:\source\codeworks\9-week\1-day\RPS\obj\Debug\net5.0\RPS.csproj.CoreCompileInputs.cache
+C:\source\codeworks\9-week\1-day\RPS\obj\Debug\net5.0\RPS.dll
+C:\source\codeworks\9-week\1-day\RPS\obj\Debug\net5.0\ref\RPS.dll
+C:\source\codeworks\9-week\1-day\RPS\obj\Debug\net5.0\RPS.pdb
+C:\source\codeworks\9-week\1-day\RPS\obj\Debug\net5.0\RPS.genruntimeconfig.cache
